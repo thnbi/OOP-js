@@ -1,0 +1,21 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thnbi/OOP-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thnbi/OOP-js/issues"
+  },
+  "homepage": "https://github.com/thnbi/OOP-js#readme"
+}
